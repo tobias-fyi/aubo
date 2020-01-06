@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/Tobias/workshop/aubo"
+		}
+	],
+	"settings": {
+		"window.zoomLevel": -2,
+		"python.pythonPath": "/Users/Tobias/.vega/aubo-7YTNraio",
+		"python.linting.pylintEnabled": true,
+		"python.linting.pylintPath": "/Users/Tobias/.vega/aubo-7YTNraio/bin/pylint",
+		"python.formatting.provider": "black",
+		"python.formatting.blackPath": "/Users/Tobias/.vega/aubo-7YTNraio/bin/black",
+		"python.formatting.blackArgs": [
+			"--line-length=88",
+		],
+	}
+}
